@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chediston Partners LLP</title>
+    <link>https://chedistonpartners.com/posts/</link>
+    <description>Recent content in Posts on Chediston Partners LLP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Mar 2024 14:18:27 +0000</lastBuildDate>
+    <atom:link href="https://chedistonpartners.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Under Construction</title>
+      <link>https://chedistonpartners.com/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Mar 2024 14:18:27 +0000</pubDate>
+      <guid>https://chedistonpartners.com/posts/my-first-post/</guid>
+      <description>Current Status We&amp;rsquo;re making important updates to our site. For inquiries, please email inquiries@chedistonpartners.com. Thank you!</description>
+    </item>
+  </channel>
+</rss>
